@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TERRIBLYT-INY-TALES-PROJECT/static/css/main.ffb0f63d.css",
-    "main.js": "/TERRIBLYT-INY-TALES-PROJECT/static/js/main.0c894759.js",
-    "static/js/787.4058305c.chunk.js": "/TERRIBLYT-INY-TALES-PROJECT/static/js/787.4058305c.chunk.js",
-    "index.html": "/TERRIBLYT-INY-TALES-PROJECT/index.html",
-    "main.ffb0f63d.css.map": "/TERRIBLYT-INY-TALES-PROJECT/static/css/main.ffb0f63d.css.map",
-    "main.0c894759.js.map": "/TERRIBLYT-INY-TALES-PROJECT/static/js/main.0c894759.js.map",
-    "787.4058305c.chunk.js.map": "/TERRIBLYT-INY-TALES-PROJECT/static/js/787.4058305c.chunk.js.map"
+    "main.css": "/TERRIBLY-TINY-TALES-PROJECT/static/css/main.ffb0f63d.css",
+    "main.js": "/TERRIBLY-TINY-TALES-PROJECT/static/js/main.1c9b1b9d.js",
+    "static/js/787.4058305c.chunk.js": "/TERRIBLY-TINY-TALES-PROJECT/static/js/787.4058305c.chunk.js",
+    "index.html": "/TERRIBLY-TINY-TALES-PROJECT/index.html",
+    "main.ffb0f63d.css.map": "/TERRIBLY-TINY-TALES-PROJECT/static/css/main.ffb0f63d.css.map",
+    "main.1c9b1b9d.js.map": "/TERRIBLY-TINY-TALES-PROJECT/static/js/main.1c9b1b9d.js.map",
+    "787.4058305c.chunk.js.map": "/TERRIBLY-TINY-TALES-PROJECT/static/js/787.4058305c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffb0f63d.css",
-    "static/js/main.0c894759.js"
+    "static/js/main.1c9b1b9d.js"
   ]
 }
